@@ -4,7 +4,8 @@
   "description": "Dynamic content pulled from any source to allow for updating content easily.",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "start": "node index.js"
   },
   "author": "Evan Verworn <evan@verworn.net>",
   "license": "ISC",
