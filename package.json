@@ -2,6 +2,7 @@
   "name": "plasma",
   "version": "0.1.0",
   "description": "Dynamic content pulled from any source to allow for updating content easily.",
+  "repository": "git@github.com:xori/plasma-anomaly.git",
   "main": "index.js",
   "scripts": {
     "test": "mocha",
